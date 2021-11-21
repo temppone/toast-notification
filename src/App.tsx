@@ -1,6 +1,6 @@
 import React from "react";
 import { Provider } from "react-redux";
-import Notification from "./compoenents/Notification";
+import Notification from "./components/Notification";
 import store from "./store";
 
 function App() {
